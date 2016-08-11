@@ -1,2 +1,2 @@
 # commithook-standard
-Standards for [commithook package](../../../../commithook).
+Standards for [commithook package](../../../commithook).
