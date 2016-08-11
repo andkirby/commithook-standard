@@ -1,2 +1,2 @@
 # commithook-standard
-Standards for commithook package.
+Standards for [commithook package](/andkirby/commithook).
