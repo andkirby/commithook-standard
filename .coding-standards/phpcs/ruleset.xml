@@ -4,8 +4,8 @@
  * @license https://raw.githubusercontent.com/andkirby/commithook/master/LICENSE.md
  */
 -->
-<ruleset name="CommitHooks">
-    <description>The Gymshark coding standard. (extended from Magento ECG)</description>
+<ruleset name="Magento ECG (commithook)">
+    <description>Magento ECG coding standards. (extended)</description>
 
     <!-- Include the whole magento-ecg standard -->
     <rule ref="../vendor/magento-ecg/coding-standard/Ecg">
